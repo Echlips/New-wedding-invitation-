@@ -594,7 +594,7 @@
 <header>
     <nav>
         <div class="logo">
-            بِسْمِ اللَّهِ 
+         بسم الله الرحمن الرحيم     
         </div>
         <ul>
             <li><a href="#home">Home</a></li>
@@ -612,18 +612,18 @@
 <section id="home">
     <p class="bismillah-intro">IN THE NAME OF ALLAH, THE MOST GRACIOUS, THE MOST MERCIFUL</p>
 
+
+
+    <p class="family-invite">
+        The families of <strong>Alhaji Musa Moyosore</strong> and that of <strong>Malam Abdulganiyu Salman</strong> warmly and joyfully invite you to celebrate the wedding of their children.
+    </p>
     <h1>
         Muhsina Musa 
         <span>&amp;</span>
         Abdulkudus Abdulganiyu Mayowa
     </h1>
-
-    <p class="family-invite">
-        The families of <strong>Alhaji Musa Moyosore</strong> and that of <strong>Malam Abdulganiyu Salman</strong> warmly and joyfully invite you to celebrate the wedding of their children.
-    </p>
-
     <p class="date-tag">
-        Saturday, 12 December 2026
+        Saturday, 19 December 2026
     </p>
 
     <a href="#details">EXPLORE THE INVITATION</a>
@@ -688,7 +688,7 @@
 </section>
 
 <!-- NIKKAH CEREMONY SECTION -->
-<section id="nikah">
+<section id="nikkah">
     <p class="sub-tag">THE CEREMONY</p>
     <h2>The Nikkah</h2>
     <p>With gratitude to Allah, we invite you to witness and celebrate the solemnisation of our marriage.</p>
@@ -700,7 +700,7 @@
     </div>
 
     <a href="https://maps.app.goo.gl/aE7gednJv4J1DJ93A" target="_blank" rel="noopener noreferrer">
-        VIEW NIKAH VENUE
+        VIEW NIKKAH VENUE
     </a>
 </section>
 
@@ -770,7 +770,7 @@
             <option value="5 Guests">5 Guests</option>
         </select>
 
-        <button type="submit">SEND RSVP VIA WHATSAPP</button>
+        <button type="submit">SEND RSVP VIA WhatsApp +2349032699312</button>
     </form>
     <p id="rsvp-message"></p>
 </section>
